@@ -34,7 +34,7 @@
       <sf:deploy 
 			username="${sf.username}"
 			password="${sf.password}"
- 			sessionId="${sf.sessionId}"
+ 			sessionId="${sf.sessionId}" <!-- This is a test series -->
  			serverurl="${sf.serverurl}"
  			maxPoll="${sf.maxPoll}"
 			pollWaitMillis="${sf.pollWaitMillis}"			
